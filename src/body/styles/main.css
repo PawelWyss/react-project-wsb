@@ -1,0 +1,10 @@
+body {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  min-height: 100vh;
+}
+
+main {
+  min-height: 80vh;
+}/*# sourceMappingURL=main.css.map */
