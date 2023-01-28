@@ -1,0 +1,43 @@
+$mp-size: 17%;
+
+#light .header-body {
+    background: linear-gradient(135deg, rgba(255, 232, 206, 1) 0%, rgba(255, 172, 78, 1) 10%, rgba(255, 172, 78, 1) 75%, rgba(255, 232, 206, 1) 110%);
+}
+
+#dark .header-body {
+    border-bottom: 1px solid grey;
+}
+
+.header-body {
+    color: white;
+    display: flex;
+    align-items: center;
+    text-transform: uppercase;
+    height: 10vh;
+
+    h1 {
+        margin-left: $mp-size;
+    }
+
+    nav {
+        width: 100%;
+        display: flex;
+        justify-content: flex-end;
+        padding-right: $mp-size;
+
+        a {
+            padding: 0 1%;
+            text-decoration: none;
+            color: white;
+        }
+
+        a:visited {
+            text-decoration: none;
+            color: white;
+        }
+
+        a:hover {
+            text-decoration: underline;
+        }
+    }
+}

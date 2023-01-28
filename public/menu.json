@@ -1,0 +1,38 @@
+{
+    "dish1": {
+        "photo": "images/placeholder.webp",
+        "name": "Danie 1",
+        "price": "20",
+        "type": ""
+    },
+    "dish2": {
+        "photo": "images/placeholder.webp",
+        "name": "Danie 2",
+        "price": "25",
+        "type": "Wegańskie"
+    },
+    "dish3": {
+        "photo": "images/placeholder.webp",
+        "name": "Danie 3",
+        "price": "18",
+        "type": "Ostre"
+    },
+    "dish4": {
+        "photo": "images/placeholder.webp",
+        "name": "Danie 4",
+        "price": "33",
+        "type": ""
+    },
+    "dish5": {
+        "photo": "images/placeholder.webp",
+        "name": "Danie 5",
+        "price": "9",
+        "type": "Ostre"
+    },
+    "dish6": {
+        "photo": "images/placeholder.webp",
+        "name": "Danie 6",
+        "price": "14",
+        "type": ""
+    }
+}

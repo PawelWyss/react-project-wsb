@@ -1,0 +1,36 @@
+#light .header-body {
+  background: linear-gradient(135deg, rgb(255, 232, 206) 0%, rgb(255, 172, 78) 10%, rgb(255, 172, 78) 75%, rgb(255, 232, 206) 110%);
+}
+
+#dark .header-body {
+  border-bottom: 1px solid grey;
+}
+
+.header-body {
+  color: white;
+  display: flex;
+  align-items: center;
+  text-transform: uppercase;
+  height: 10vh;
+}
+.header-body h1 {
+  margin-left: 17%;
+}
+.header-body nav {
+  width: 100%;
+  display: flex;
+  justify-content: flex-end;
+  padding-right: 17%;
+}
+.header-body nav a {
+  padding: 0 1%;
+  text-decoration: none;
+  color: white;
+}
+.header-body nav a:visited {
+  text-decoration: none;
+  color: white;
+}
+.header-body nav a:hover {
+  text-decoration: underline;
+}/*# sourceMappingURL=header.css.map */

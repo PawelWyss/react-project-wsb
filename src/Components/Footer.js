@@ -1,7 +1,7 @@
 import './styles/footer.css'
 
 const footer = () => {
-    return(
+    return (
         <footer>
             <p>COPYRIGHT &copy; QWERTY 2023</p>
         </footer>
